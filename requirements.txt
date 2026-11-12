@@ -1,5 +1,7 @@
+# Samakan versi TensorFlow/Keras dengan yang dicetak di akhir notebook (sel "Ekspor Model").
+# Contoh di bawah adalah versi yang sudah diuji untuk memuat model; ganti dengan versi Colab Anda.
 tensorflow>=2.21.0
-streamlit==1.57.0
+streamlit=1.40
 streamlit-webrtc>=0.60
 keras>=3.13.2
 av
